@@ -1,12 +1,12 @@
 # pyqtDownloader
 ---
 ## 概述
-####pyqt实现的一个多线/进/协程的桌面版下载器
+#### pyqt实现的一个多线/进/协程的桌面版下载器
 ---
 ## 开发环境
-###工具
-####1. pycharm
-####2. Qt Creator - 用于设计界面得到到pyqt_downloader.ui文件
+### 工具
+#### 1. pycharm
+#### 2. Qt Creator - 用于设计界面得到到pyqt_downloader.ui文件
 ### 主要用到的第三方python模块：
 #### 1. PyQt5
 #### 2. requests 
