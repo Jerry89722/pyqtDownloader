@@ -15,3 +15,6 @@
 #### 1. 界面的设计使用QtCreator设计得到并生成ui文件
 #### 2. pyqt并不能直接使用qt的ui文件, 须使用pyuic5工具转换成py文件，命令为：
 #### >>>pyuic5 pyqt_downloader.ui -o pyqt_downloader_ui.py
+
+### 软件运行截图：
+![运行截图](https://github.com/Jerry89722/pyqtDownloader/blob/master/irrelevant_with_project/running_photo.png)
